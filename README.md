@@ -16,7 +16,9 @@
 - ⚡ Fun fact: I love to watch anime and documentaries
 
 
-### Connect with me:
+<hr />
+
+### Connect with me
 
 <p align="left">
 
@@ -28,9 +30,9 @@
 <a href="https://steamcommunity.com/profiles/76561198862144655/"><img align="left" alt="Steam" title="Steam" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/steam.svg"></a>
 </p>
 <br />
+<hr />
 
-### Languages:
-
+### Languages and Major Libraries
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JS" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -40,12 +42,32 @@
 <img align="left" alt="Java" width="40px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
 <img align="left" alt="C++" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"/>
 <img align="left" alt="Tensorflow" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"/>
-<img align="left" alt="mysql" width="40px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" />
+<br />
+<br />
+<hr />
+
+### Tools and other stuffs
+<img align="left" alt="git" width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
+<img align="left" alt="github" width="35px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" />
+<img align="left" alt="npm" width="40px" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" />
+<img align="left" alt="heroku" width="40px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />
+<img align="left" alt="netlify" width="40px" src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" />
+<img align="left" alt="prettier" width="35px" src="https://cdn.worldvectorlogo.com/logos/prettier-2.svg" />
+<img align="left" alt="eslint" width="35px" src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg" />
+<img align="left" alt="Codesandbox" width="40px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/codesandbox.svg" />
 
 <br />
 <br />
 <hr />
 
+### Databases
+<img align="left" alt="MongoDB" width="40px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />
+<img align="left" alt="firebase" width="40px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
+<img align="left" alt="mysql" width="40px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" />
+<img align="left" alt="postgresql" width="40px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" />
+<br />
+<br />
+<hr />
 
 
 
@@ -53,4 +75,5 @@
 [twitter]: https://twitter.com/mohan_divy
 [instagram]: https://www.instagram.com/dv_kil_14/
 [linkedin]: https://www.linkedin.com/in/divymohan/
+
 
