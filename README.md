@@ -30,6 +30,7 @@
 <a href="https://steamcommunity.com/profiles/76561198862144655/"><img align="left" alt="Steam" title="Steam" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/steam.svg"></a>
 </p>
 <br />
+<br />
 <hr />
 
 ### Languages and Major Libraries
@@ -46,7 +47,7 @@
 <br />
 <hr />
 
-### Tools and other stuffs
+### Tools 
 <img align="left" alt="git" width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
 <img align="left" alt="github" width="35px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" />
 <img align="left" alt="npm" width="40px" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" />
