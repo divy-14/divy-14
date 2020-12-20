@@ -5,8 +5,6 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/mohan_divy?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/mohan_divy)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divymohan/)
 
-<br>
-
 ### Spotify Playing 🎧
 [<img src="https://spotifytest.dr-one-punch.vercel.app/api/spotify" alt="Divy Spotify Playing" width="350" />](https://open.spotify.com/user/06pg5zahikeftw0usrr2iqvny)
 
