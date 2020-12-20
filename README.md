@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divymohan/)
 
 ### Spotify Playing 🎧
-[<img src="https://spotifytest.dr-one-punch.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/06pg5zahikeftw0usrr2iqvny)
+[<img src="https://spotifytest.dr-one-punch.vercel.app/api/spotify" alt="Divy Spotify Playing" width="350" />](https://open.spotify.com/user/06pg5zahikeftw0usrr2iqvny)
 
 ## I'm a Software Developer and a Deep Learning Reseacher !!
 
@@ -50,7 +50,4 @@
 [twitter]: https://twitter.com/mohan_divy
 [instagram]: https://www.instagram.com/dv_kil_14/
 [linkedin]: https://www.linkedin.com/in/divymohan/
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+
