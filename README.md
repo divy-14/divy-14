@@ -24,7 +24,8 @@
 <a href="https://myanimelist.net/profile/H3LL_kil"><img align="left" alt="MyAnimeList" title="MyAnimeList" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/myanimelist.svg"></a>
 <a href="https://www.youtube.com/channel/UCN8KMsTpx2Q9cfZcbZR3A8Q?view_as=subscriber"><img align="left" alt="YouTube" title="YouTube" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg"></a>
 <a href="https://discordapp.com/users/463006624655736833"><img align="left" alt="Discord" title="Discord" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a>
-  
+<a href="https://www.linkedin.com/in/divymohan/"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
+<a href="https://steamcommunity.com/profiles/76561198862144655/"><img alt="Steam" title="Steam" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/steam.svg"></a>
 </p>
 <br />
 
