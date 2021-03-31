@@ -1,4 +1,4 @@
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+![](https://github.com/divy-14/Beautiful-Todo/blob/main/js.gif)
 <br>
 ### Hi there, I'm Divy Mohan Rai <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 [![Website](https://img.shields.io/website?down_color=red&down_message=%3A%28&style=for-the-badge&up_message=UP%20%3A%29&url=https%3A%2F%2Fdivymohanrai.netlify.app%2F)](http://divymr.tech/)
