@@ -1,4 +1,4 @@
-<img src="https://github.com/divy-14/Beautiful-Todo/blob/main/giphy.gif" width="1000px" height="520px">
+<img src="https://github.com/divy-14/Beautiful-Todo/blob/main/giphy.gif" width="800px" height="320px">
 <br>
 
 ### Hi there, I'm Divy Mohan Rai <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
